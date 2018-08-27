@@ -1,0 +1,26 @@
+.position {
+  margin: 30px;
+  font-weight: bold;
+}
+.icon-size {
+  font-size: 25px;
+  color: blue;
+}
+.button-size{
+  color: white !important;
+  background-color: blue;
+  }
+#getQuote:hover{
+  background-color: #333333;
+}
+#getQuote {
+  outline: none;
+}
+#tweet {
+  font-size: 25px;
+}
+.well{
+  margin-top: 50px;
+  font-family: sans-serif;
+  font-size: 20px
+}
